@@ -1,5 +1,5 @@
 # tag_words
-A simple CLI program to draw text using hastags; similar to figlet.
+A simple CLI program to draw text using hashtags, similar to figlet.
 
 ### Usage
 You must run this in the command line. Pass in the text that you want to convert as an argument.
